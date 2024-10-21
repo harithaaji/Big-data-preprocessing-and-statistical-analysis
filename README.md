@@ -36,3 +36,6 @@ Install required Python libraries:
 
 ```bash
 pip install pyspark pandas matplotlib seaborn scikit-learn
+
+## Project Workflow
+

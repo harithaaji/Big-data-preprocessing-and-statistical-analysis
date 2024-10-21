@@ -39,3 +39,46 @@ Install required Python libraries:
 
 ## Project Workflow
 
+**1. Data Preprocessing**
+
+The data_preprocessing.py script cleans and prepares the dataset for analysis:
+
+bash
+
+python src/data_preprocessing.py
+
+**2. Exploratory Data Analysis (EDA)**
+
+Run the EDA.ipynb Jupyter Notebook to perform data exploration and generate visualizations:
+
+bash
+
+jupyter notebook notebooks/EDA.ipynb
+
+**3. Statistical Analysis**
+
+To conduct statistical analysis, run the stat_analysis.py script:
+
+bash
+
+python src/stat_analysis.py
+
+## Project Structure
+
+bash
+
+├── data/                     # Folder for the dataset
+├── notebooks/                # Jupyter Notebooks for EDA and visualizations
+├── src/                      # Source code for data processing and analysis
+│   ├── data_preprocessing.py # Script for data cleaning and preprocessing
+│   ├── stat_analysis.py      # Script for statistical analysis
+├── README.md                 # Project documentation
+└── setup_spark.md            # Guide to setup Apache Spark
+
+## Results
+
+The analysis will produce insights regarding:
+
+    Correlations between demographic factors and mental health outcomes.
+    The role of treatment history in influencing mental health.
+    Visualizations highlighting trends in mental health conditions.

@@ -34,7 +34,8 @@ Ensure you have the following installed:
   
 Install required Python libraries:
 
-'pip install pyspark pandas matplotlib seaborn scikit-learn'
+'''bash
+pip install pyspark pandas matplotlib seaborn scikit-learn'''
 
 ## Project Workflow
 

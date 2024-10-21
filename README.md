@@ -59,18 +59,18 @@ To conduct statistical analysis, run the stat_analysis.py script:
 
 ## Project Structure
 
-``├── data/                     # Folder for the dataset
-├── notebooks/                # Jupyter Notebooks for EDA and visualizations
-├── src/                      # Source code for data processing and analysis
-│   ├── data_preprocessing.py # Script for data cleaning and preprocessing
-│   ├── stat_analysis.py      # Script for statistical analysis
-├── README.md                 # Project documentation
-└── setup_spark.md            # Guide to setup Apache Spark``
+    ├── data/                     # Folder for the dataset
+    ├── notebooks/                # Jupyter Notebooks for EDA and visualizations
+    ├── src/                      # Source code for data processing and analysis
+    │   ├── data_preprocessing.py # Script for data cleaning and preprocessing
+    │   ├── stat_analysis.py      # Script for statistical analysis
+    ├── README.md                 # Project documentation
+    └── setup_spark.md            # Guide to setup Apache Spark``
 
 ## Results
 
 The analysis will produce insights regarding:
 
-    Correlations between demographic factors and mental health outcomes.
-    The role of treatment history in influencing mental health.
-    Visualizations highlighting trends in mental health conditions.
+Correlations between demographic factors and mental health outcomes.
+The role of treatment history in influencing mental health.
+Visualizations highlighting trends in mental health conditions.

@@ -60,7 +60,10 @@ To conduct statistical analysis, run the stat_analysis.py script:
 ## Results
 
 The analysis will produce insights regarding:
+![Schizophrenia_disorders](Schizophrenia_disorders_share_of_population___Sex__Both___Age__Age_standardized.png)
+![Anxiety_disorders](Anxiety_disorders_share_of_population___Sex__Both___Age__Age_standardized.png)
+![Bipolar_disorders](Bipolar_disorders_share_of_population___Sex__Both___Age__Age_standardized.png)
+![Depressive_disorders](Depressive_disorders_share_of_population___Sex__Both___Age__Age_standardized.png)
+![Eating_disorders](Eating_disorders_share_of_population___Sex__Both___Age__Age_standardized.png)
+![Schizophrenia_Disorders_Distribution](Schizophrenia_Disorders_Distribution.png)
 
-Correlations between demographic factors and mental health outcomes.
-The role of treatment history in influencing mental health.
-Visualizations highlighting trends in mental health conditions.

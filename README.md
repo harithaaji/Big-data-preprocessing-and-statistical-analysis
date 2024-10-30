@@ -35,7 +35,7 @@ Ensure you have the following installed:
 Install required Python libraries:
 
 
-```pip install pyspark pandas matplotlib seaborn scikit-learn```
+```pip install pyspark pandas matplotlib seaborn```
 
 ## Project Workflow
 
@@ -56,16 +56,6 @@ Run the EDA.ipynb Jupyter Notebook to perform data exploration and generate visu
 To conduct statistical analysis, run the stat_analysis.py script:
 
 ```python src/stat_analysis.py```
-
-## Project Structure
-
-    ├── data/                     # Folder for the dataset
-    ├── notebooks/                # Jupyter Notebooks for EDA and visualizations
-    ├── src/                      # Source code for data processing and analysis
-    │   ├── data_preprocessing.py # Script for data cleaning and preprocessing
-    │   ├── stat_analysis.py      # Script for statistical analysis
-    ├── README.md                 # Project documentation
-    └── setup_spark.md            # Guide to setup Apache Spark``
 
 ## Results
 
